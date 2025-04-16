@@ -1,8 +1,8 @@
-# 📅 Tasks App (To-Do List)
+# 📅 OnTrack
 
-A website for a task organizer (to-do list) built with React JS, Tailwind CSS, TypeScript, Redux Toolkit, and more.
+A website for a task organizer (OnTrack) built with React JS, Tailwind CSS, TypeScript, Redux Toolkit, and more.
 
-![página inicial](https://github.com/aridsm/tasks-app/blob/master/public/To-Do%20List%20_%20All%20tasks.png)
+![página inicial](/public/image.png)
 
 ## Description
 
