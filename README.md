@@ -29,7 +29,7 @@ The main goal of the project was to apply knowledge of TypeScript, Tailwind, Red
 
 ## Como testar
 
-You can access the project here: https://tasks-app-aridsm.netlify.app/
+You can access the project here: https://task-app-orpin-two.vercel.app/
 
 Or run it on your machine:
 
